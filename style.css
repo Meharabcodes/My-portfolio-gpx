@@ -1,0 +1,8 @@
+.logo{
+    height: 30px;
+}
+
+.review:hover{
+    transform: translateY(-15px);
+    transition: ease-in .4s;
+}
